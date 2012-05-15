@@ -1,5 +1,11 @@
+*.a
+*.o
+cjpeg
 Makefile
 config.log
 config.status
 jconfig.h
-
+djpeg
+jpegtran
+rdjpgcom
+wrjpgcom
